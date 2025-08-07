@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://cdn.pixabay.com/photo/2015/05/19/07/44/browser-773215_1280.png",
+        "name": "E-commerce Platform",
+        "description": "A full-featured e-commerce site built with React, Node.js, and Stripe for payments.",
+        "live_url": "#",
+        "source_url": "#"
+    },
+    {
+        "image": "https://placehold.co/600x400/1f2937/ffffff?text=Project+Two",
+        "name": "Task Management App",
+        "description": "A sleek and intuitive task manager with drag-and-drop functionality, built with Vue.js.",
+        "live_url": "#",
+        "source_url": "#"
+    },
+    {
+        "image": "https://placehold.co/600x400/1f2937/ffffff?text=Project+Three",
+        "name": "Portfolio Website",
+        "description": "The very portfolio you are looking at now, designed to be clean, modern, and fast.",
+        "live_url": "#",
+        "source_url": "#"
+    },
+    {
+        "image": "https://placehold.co/600x400/1f2937/ffffff?text=Project+Three",
+        "name": "Portfolio Website",
+        "description": "The very portfolio you are looking at now, designed to be clean, modern, and fast.",
+        "live_url": "#",
+        "source_url": "#"
+    }
+]

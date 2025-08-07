@@ -1,0 +1,16 @@
+[
+    {
+        "image": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
+        "name": "Certified JavaScript Developer",
+        "issued_by": "Tech Credential Institute",
+        "description": "A comprehensive certification covering advanced JavaScript concepts.",
+        "certificate_url": "#"
+    },
+    {
+        "image": "https://placehold.co/400x400/1f2937/ffffff?text=Cert+2",
+        "name": "Advanced CSS and Sass",
+        "issued_by": "Web Design Masters",
+        "description": "Mastery of modern CSS techniques, including Flexbox, Grid, and Sass.",
+        "certificate_url": "#"
+    }
+]
